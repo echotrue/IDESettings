@@ -1,0 +1,129 @@
+{
+  "editor.fontFamily": "Monaco, 'Courier New','JetBrains Mono', 'Fira Code'",
+  "editor.fontLigatures": false,
+  "editor.fontWeight": "300",
+  "editor.lineHeight": 20,
+  "editor.fontSize": 15,
+  "extensions.autoCheckUpdates": false,
+  "extensions.autoUpdate": false,
+  // "update.showReleaseNotes": false,
+  // "window.commandCenter": true,
+  "workbench.colorTheme": "Atom One Dark",
+  "workbench.colorCustomizations": {
+    // 设置侧边栏背景色
+    "sideBar.background": "#282c34",
+    // 设置活动栏（最左侧图标栏）背景色
+    "activityBar.background": "#282c34",
+    // 如果你想让侧边栏的分隔线也消失，可以加上这一行
+    "sideBar.border": "#282c34"
+  },
+  // "workbench.activityBar.orientation": "vertical",
+  "editor.tokenColorCustomizations": {
+    "textMateRules": [
+      {
+        "name": "Comment",
+        "scope": [
+          "comment",
+          "comment.block",
+          "comment.block.documentation",
+          "comment.line",
+          "comment.line.double-slash"
+        ],
+        "settings": {
+          "foreground": "#5C6370",
+          "fontStyle": ""
+        }
+      },
+      {
+        "scope": [
+          "entity.name.variable.paramerter",
+          "variable.parameter.go"
+        ],
+        "settings": {
+          "fontStyle": ""
+        }
+      }
+    ]
+  },
+  "makefile.configureOnOpen": true,
+  // "cursor.general.disableHttp2": true,
+  "terminal.integrated.profiles.windows": {
+    "MSYS2": {
+      "path": "D:\\msys64\\usr\\bin\\bash.exe",
+      "args": [
+        "--login",
+        "-i"
+      ],
+      "env": {
+        "MSYSTEM": "MSYS",
+        "CHERE_INVOKING": "1"
+      },
+      "icon": "terminal-bash"
+    }
+  },
+  "terminal.integrated.defaultProfile.windows": "MSYS2",
+  // "cursor.general.disableHttp1SSE": false,
+  "http.proxy": "",
+  "explorer.confirmDragAndDrop": false,
+  "explorer.confirmDelete": false,
+  "http.proxyAuthorization": null,
+  "oneDarkPro.italic": false,
+  "editor.minimap.renderCharacters": false,
+  "editor.minimap.enabled": false,
+  "workbench.auxiliaryActivityBar.location": "default",
+  "claudeCode.preferredLocation": "panel",
+  "workbench.iconTheme": "material-icon-theme",
+  "update.mode": "manual",
+
+
+
+  // --- Todo Tree 基础设置 ---
+    "todo-tree.general.tags": [
+        "TODO",
+        "FIXME",
+        "BUG",
+        "DONE",
+        "NOTE"
+    ],
+    
+    // --- 树状视图显示优化 ---
+    "todo-tree.tree.expanded": false, // 默认展开树状列表
+    // --- 样式自定义 (Highlighting) ---
+    "todo-tree.highlights.defaultHighlight": {
+        "type": "tag",            // 样式类型：text(仅文字), background(带背景), line(整行)
+        "fontWeight": "normal",      // 加粗
+        "opacity": 0,
+        "borderRadius": "2px"      // 如果使用背景，增加圆角
+    },
+    "todo-tree.highlights.customHighlight": {
+        "TODO": {
+            "foreground": "#FFEB95",
+            // "background": "#ff9900", // 橙色
+            "icon": "check",         // 侧边栏图标
+            "iconColour": "#FFEB95"
+        },
+        "FIXME": {
+            "foreground": "#E06C75",
+            // "background": "#f44336", // 红色
+            "icon": "alert",
+            "iconColour": "#f44336"
+        },
+        "BUG": {
+            "foreground": "#e91e63",
+            // "background": "#e91e63", // 粉红
+            "icon": "bug",
+            "iconColour": "#e91e63"
+        },
+        "DONE": {
+            "foreground": "#7dd323", // 绿色文字
+            "icon": "verified",
+            "iconColour": "#7dd323"
+        },
+        "NOTE": {
+            "foreground": "#61AFEF",
+            // "background": "#2196f3", // 蓝色
+            "icon": "note",
+            "iconColour": "#2196f3"
+        }
+    }
+}
