@@ -84,7 +84,7 @@
         "DONE",
         "NOTE"
     ],
-    
+
     // --- 树状视图显示优化 ---
     "todo-tree.tree.expanded": false, // 默认展开树状列表
     // --- 样式自定义 (Highlighting) ---
@@ -136,6 +136,9 @@
     "go.languageServerFlags": [
       "-rpc.trace"
     ],
+    "go.inlayHints.parameterNames": true,
+    "go.inlayHints.assignVariableTypes": true,
+    "go.inlayHints.compositeLiteralFields": true,
     "gopls": {
       "ui.diagnostic.staticcheck": true,
       // "staticcheckProvided": true,
@@ -172,5 +175,11 @@
     "files.exclude": {
       "**/.git": true,
       "**/.idea": true
-    }
+    },
+    "editor.bracketPairColorization.enabled": true,
+    "editor.guides.bracketPairs": "active",
+    "files.trimTrailingWhitespace": true,
+    "files.insertFinalNewline": true,
+    "editor.smoothScrolling": true,
+    "editor.cursorSmoothCaretAnimation": "on",
 }
