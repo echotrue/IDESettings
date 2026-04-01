@@ -71,7 +71,6 @@
   "editor.minimap.renderCharacters": false,
   "editor.minimap.enabled": false,
   "workbench.auxiliaryActivityBar.location": "default",
-  "claudeCode.preferredLocation": "panel",
   "workbench.iconTheme": "material-icon-theme",
   "update.mode": "manual",
 
@@ -125,5 +124,53 @@
             "icon": "note",
             "iconColour": "#2196f3"
         }
+    },
+    "[go]": {
+      "editor.insertSpaces": false,
+      "editor.formatOnSave": true,
+      "editor.codeActionsOnSave": {
+        "source.organizeImports": "explicit"
+      }
+    },
+    "go.useLanguageServer": true,
+    "go.languageServerFlags": [
+      "-rpc.trace"
+    ],
+    "gopls": {
+      "ui.diagnostic.staticcheck": true,
+      // "staticcheckProvided": true,
+      "formatting.gofumpt": true,
+      "completeUnimported": true,
+      "usePlaceholders": true,
+      "analyses": {
+      "ST1000": false,
+      "ST1003": false,
+      // "ST1023": false, // 禁用冗余类型声明检查
+
+      "unusedparams": true,
+      "shadow": true,
+      "packagecomment": false
+      },
+      "directoryFilters": [
+        "-node_modules",
+        "-.git",
+        "-.idea"
+      ],
+    },
+    "[json]": {
+      "editor.formatOnSave": false
+    },
+    "[jsonc]": {
+      "editor.formatOnSave": false
+    },
+    "files.watcherExclude": {
+      "**/.git/objects/**": true,
+      "**/.git/subtree-cache/**": true,
+      "**/node_modules/*/**": true,
+      "**/.idea/**": true
+    },
+    "files.exclude": {
+      "**/.git": true,
+      "**/.idea": true
     }
 }

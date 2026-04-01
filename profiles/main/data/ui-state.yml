@@ -1,5 +1,5 @@
 alefragnani.project-manager: '{"project-manager.version":"13.0.0","recent":"[\"xianyu\",\"devops\",\"armor\",\"backend-new\",\"armorrebate-new\",\"内网后台\",\"OSS工具\",\"dandanking\",\"docs\",\"老后台\"]","hideGitWelcome":true}'
-golang.go: '{"go.extensionVersion":"0.40.0","telemetryStartTime":"2025-12-22T03:55:49.148Z","latestGoVersions":{"timestamp":1774924346487,"goVersions":[{"description":"download
+golang.go: '{"go.extensionVersion":"0.40.0","telemetryStartTime":"2025-12-22T03:55:49.148Z","latestGoVersions":{"timestamp":1775025701481,"goVersions":[{"description":"download
   golang.org/dl/go1.26.1","binpath":"golang.org/dl/go1.26.1","label":"Go
   1.26.1","available":false},{"description":"download
   golang.org/dl/go1.25.8","binpath":"golang.org/dl/go1.25.8","label":"Go
@@ -115,7 +115,7 @@ workbench.auxiliaryActivityBar.location: default
 workbench.auxiliaryBar.empty: "true"
 workbench.auxiliaryBar.lastNonMaximizedSize: "300"
 workbench.auxiliaryBar.size: "300"
-workbench.editor.languageDetectionOpenedLanguages.global: '[["jsonc",true],["makefile",true],["go.mod",true],["http",true],["plaintext",true],["json",true],["shellscript",true],["bat",true],["markdown",true],["go",true],["proto",true],["yaml",true]]'
+workbench.editor.languageDetectionOpenedLanguages.global: '[["makefile",true],["go.mod",true],["http",true],["json",true],["shellscript",true],["bat",true],["markdown",true],["proto",true],["yaml",true],["plaintext",true],["go",true],["jsonc",true]]'
 workbench.explorer.views.state.hidden: '[{"id":"outline","isHidden":false},{"id":"timeline","isHidden":false},{"id":"workbench.explorer.openEditorsView","isHidden":true},{"id":"workbench.explorer.emptyView","isHidden":false},{"id":"workbench.explorer.fileView","isHidden":false},{"id":"npm","isHidden":true},{"id":"go.explorer","isHidden":false},{"id":"go.package.outline","isHidden":false},{"id":"svn","isHidden":false},{"id":"claudeVSCodeSidebarSecondary","isHidden":false},{"id":"vscode-containers.views.containers","isHidden":false},{"id":"vscode-containers.views.images","isHidden":false},{"id":"vscode-containers.views.registries","isHidden":false},{"id":"vscode-containers.views.networks","isHidden":false},{"id":"vscode-containers.views.volumes","isHidden":false},{"id":"vscode-containers.views.dockerContexts","isHidden":false},{"id":"vscode-containers.views.help","isHidden":false},{"id":"Lingma.Chat","isHidden":false}]'
 workbench.panel.alignment: center
 workbench.panel.lastNonMaximizedHeight: "266"
