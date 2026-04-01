@@ -115,7 +115,7 @@ workbench.auxiliaryActivityBar.location: default
 workbench.auxiliaryBar.empty: "true"
 workbench.auxiliaryBar.lastNonMaximizedSize: "300"
 workbench.auxiliaryBar.size: "300"
-workbench.editor.languageDetectionOpenedLanguages.global: '[["makefile",true],["go.mod",true],["http",true],["json",true],["shellscript",true],["bat",true],["markdown",true],["plaintext",true],["yaml",true],["proto",true],["go",true],["jsonc",true]]'
+workbench.editor.languageDetectionOpenedLanguages.global: '[["makefile",true],["go.mod",true],["http",true],["json",true],["shellscript",true],["bat",true],["markdown",true],["plaintext",true],["proto",true],["go",true],["jsonc",true],["yaml",true]]'
 workbench.explorer.views.state.hidden: '[{"id":"outline","isHidden":false},{"id":"timeline","isHidden":false},{"id":"workbench.explorer.openEditorsView","isHidden":true},{"id":"workbench.explorer.emptyView","isHidden":false},{"id":"workbench.explorer.fileView","isHidden":false},{"id":"npm","isHidden":true},{"id":"go.explorer","isHidden":false},{"id":"go.package.outline","isHidden":false},{"id":"svn","isHidden":false},{"id":"claudeVSCodeSidebarSecondary","isHidden":false},{"id":"vscode-containers.views.containers","isHidden":false},{"id":"vscode-containers.views.images","isHidden":false},{"id":"vscode-containers.views.registries","isHidden":false},{"id":"vscode-containers.views.networks","isHidden":false},{"id":"vscode-containers.views.volumes","isHidden":false},{"id":"vscode-containers.views.dockerContexts","isHidden":false},{"id":"vscode-containers.views.help","isHidden":false},{"id":"Lingma.Chat","isHidden":false}]'
 workbench.panel.alignment: center
 workbench.panel.lastNonMaximizedHeight: "266"
