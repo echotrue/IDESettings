@@ -180,8 +180,8 @@
     "editor.guides.bracketPairs": "active",
     "files.trimTrailingWhitespace": true,
     "files.insertFinalNewline": true,
-    "editor.smoothScrolling": true,
-    "editor.cursorSmoothCaretAnimation": "on",
+    // "editor.smoothScrolling": true,
+    // "editor.cursorSmoothCaretAnimation": "on",
     "syncSettings.crons": {
       "upload": "0 11 * * *",
       "download": "0 18 * * *",
