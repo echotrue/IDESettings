@@ -8,7 +8,7 @@
     "extensions.autoUpdate": false,
     // "update.showReleaseNotes": false,
     // "window.commandCenter": true,
-    "workbench.colorTheme": "Atom One Dark",
+    "workbench.colorTheme": "One Dark Pro Flat",
     "workbench.colorCustomizations": {
         // 设置侧边栏背景色
         "sideBar.background": "#282c34",
