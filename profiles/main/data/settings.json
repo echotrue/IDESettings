@@ -115,7 +115,7 @@
             "iconColour": "#7dd323"
         },
         "NOTE": {
-            "foreground": "#61AFEF",
+            "foreground": "#4EC9B0",
             // "background": "#2196f3", // 蓝色
             "icon": "note",
             "iconColour": "#2196f3"
