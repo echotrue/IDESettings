@@ -23,5 +23,10 @@
         "key": "ctrl+u",
         "command": "-cursorUndo",
         "when": "textInputFocus"
+    },
+    {
+        "key": "alt+enter",
+        "command": "-editor.action.quickFix",
+        "when": "editorHasCodeActionsProvider && editorTextFocus && !editorReadonly"
     }
 ]

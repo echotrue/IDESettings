@@ -126,7 +126,8 @@
         "editor.formatOnSave": true,
         "editor.codeActionsOnSave": {
             "source.organizeImports": "explicit"
-        }
+        },
+        "editor.lightbulb.enabled": "onCode",
     },
     "go.useLanguageServer": true,
     "go.languageServerFlags": [
