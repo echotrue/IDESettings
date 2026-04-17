@@ -126,6 +126,11 @@
         "editor.formatOnSave": true,
         "editor.codeActionsOnSave": {
             "source.organizeImports": "explicit"
+        },
+        "editor.quickSuggestions": {
+            "other": true,
+            "comments": false,
+            "strings": true
         }
     },
     "go.useLanguageServer": true,
@@ -137,6 +142,7 @@
     "go.inlayHints.compositeLiteralFields": true,
     "gopls": {
         "ui.diagnostic.staticcheck": true,
+        "ui.semanticTokens": true,
         // "staticcheckProvided": true,
         "formatting.gofumpt": true,
         "completeUnimported": true,
