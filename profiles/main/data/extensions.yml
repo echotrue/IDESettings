@@ -6,6 +6,9 @@ enabled:
   - id: alefragnani.project-manager
     uuid: 1b747f06-3789-4ebd-ac99-f1fe430c3347
     version: 13.0.0
+  - id: dbcode.dbcode
+    uuid: a172cbe5-f099-458f-b024-382d48f54aa0
+    version: 1.30.6
   - id: DEVSENSE.composer-php-vscode
     uuid: eed2a934-7bb6-4a5b-a29d-353077efd839
   - id: DEVSENSE.intelli-php-vscode

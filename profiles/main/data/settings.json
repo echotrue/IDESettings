@@ -187,5 +187,54 @@
         "upload": "0 11 * * *",
         "download": "0 18 * * *",
         "review": "0 */2 * * *"
-    }
+    },
+    "dbcode.connections": [
+        {
+            "connectionId": "chKi4nvNvOooGQVkvXFO-",
+            "name": "新测试",
+            "driver": "mongodb",
+            "connectionType": "host",
+            "driverOptions": {
+                "protocol": "mongodb://"
+            },
+            "host": "119.45.158.145",
+            "port": 27017,
+            "ssl": false,
+            "authMethod": "password",
+            "username": "root",
+            "password": "",
+            "savePassword": "secretStorage",
+            "database": "admin",
+            "readOnly": false,
+            "connectionTimeout": 30,
+            "introspection": {
+                "progressive": false
+            },
+            "driverSettings": {
+                "authSource": "admin"
+            }
+        },
+        {
+            "connectionId": "NOgF7beyPdPLDnc57NcoM",
+            "name": "内网",
+            "driver": "mongodb",
+            "connectionType": "host",
+            "driverOptions": {
+                "protocol": "mongodb://"
+            },
+            "host": "192.168.1.11",
+            "port": 27017,
+            "ssl": false,
+            "authMethod": "password",
+            "username": "root",
+            "password": "",
+            "savePassword": "secretStorage",
+            "database": "admin",
+            "readOnly": false,
+            "connectionTimeout": 30,
+            "introspection": {
+                "progressive": false
+            }
+        }
+    ]
 }
