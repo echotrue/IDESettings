@@ -1,0 +1,130 @@
+[
+	{
+		"name": "xianyu",
+		"rootPath": "d:\\data\\a_dev\\xianyu\\server",
+		"paths": [],
+		"tags": [],
+		"enabled": true,
+		"profile": ""
+	},
+	{
+		"name": "devops",
+		"rootPath": "d:\\data\\a_dev\\devops",
+		"paths": [],
+		"tags": [],
+		"enabled": true,
+		"profile": ""
+	},
+	{
+		"name": "armorrebate",
+		"rootPath": "d:\\data\\a_dev\\armorrebate\\server",
+		"paths": [],
+		"tags": [],
+		"enabled": true,
+		"profile": ""
+	},
+	{
+		"name": "新后台",
+		"rootPath": "d:\\data\\a_pro_new\\backend",
+		"paths": [],
+		"tags": [],
+		"enabled": true,
+		"profile": ""
+	},
+	{
+		"name": "内网后台",
+		"rootPath": "d:\\data\\a_dev\\backend",
+		"paths": [],
+		"tags": [],
+		"enabled": true,
+		"profile": ""
+	},
+	{
+		"name": "OSS工具",
+		"rootPath": "d:\\data\\a_dev\\GameTools",
+		"paths": [],
+		"tags": [],
+		"enabled": true,
+		"profile": ""
+	},
+	{
+		"name": "dandanking",
+		"rootPath": "d:\\data\\a_dev\\yqdandan4\\server",
+		"paths": [],
+		"tags": [],
+		"enabled": true,
+		"profile": ""
+	},
+	{
+		"name": "docs",
+		"rootPath": "d:\\data\\a_dev\\docs",
+		"paths": [],
+		"tags": [],
+		"enabled": true,
+		"profile": ""
+	},
+	{
+		"name": "老后台",
+		"rootPath": "d:\\data\\a_pro\\gamebackend-new",
+		"paths": [],
+		"tags": [],
+		"enabled": true,
+		"profile": ""
+	},
+	{
+		"name": "luojihong",
+		"rootPath": "d:\\data\\luojihong",
+		"paths": [],
+		"tags": [],
+		"enabled": true,
+		"profile": ""
+	},
+	{
+		"name": "luban",
+		"rootPath": "d:\\data\\a_dev\\xianyu\\design\\excel2json",
+		"paths": [],
+		"tags": [],
+		"enabled": true,
+		"profile": ""
+	},
+	{
+		"name": "kit",
+		"rootPath": "d:\\data\\kit",
+		"paths": [],
+		"tags": [],
+		"enabled": true,
+		"profile": ""
+	},
+	{
+		"name": "xxlxj",
+		"rootPath": "d:\\data\\a_dev\\banhao_xxlxj\\server",
+		"paths": [],
+		"tags": [],
+		"enabled": true,
+		"profile": ""
+	},
+	{
+		"name": "tn1gateway",
+		"rootPath": "d:\\data\\a_pro_new\\tn1gateway",
+		"paths": [],
+		"tags": [],
+		"enabled": true,
+		"profile": ""
+	},
+	{
+		"name": "后台客户端",
+		"rootPath": "d:\\data\\a_pro_new\\gamebackend\\frontend",
+		"paths": [],
+		"tags": [],
+		"enabled": true,
+		"profile": ""
+	},
+	{
+		"name": "后台服务端",
+		"rootPath": "d:\\data\\a_pro_new\\gamebackend\\backend",
+		"paths": [],
+		"tags": [],
+		"enabled": true,
+		"profile": ""
+	}
+]

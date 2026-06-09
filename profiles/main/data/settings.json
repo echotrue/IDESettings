@@ -191,6 +191,9 @@
         "tasks",
         "uiState"
     ],
+    "syncSettings.additionalFiles": [
+        "~globalStorage/alefragnani.project-manager/projects.json",
+    ],
     "syncSettings.crons": {
         "upload": "0 11 * * *",
         "download": "0 18 * * *",

@@ -5,3 +5,5 @@ resources:
   - snippets
   - tasks
   - uiState
+additionalFiles:
+  - ~globalStorage/alefragnani.project-manager/projects.json

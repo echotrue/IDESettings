@@ -163,7 +163,7 @@ workbench.panel.placeholderPanels: '[{"id":"workbench.panel.markers","themeIcon"
   Results","isBuiltin":true,"views":[{"when":"testing.hasAnyResults"}]},{"id":"~remote.forwardedPortsContainer","themeIcon":{"id":"ports-view-icon"},"name":"Ports","isBuiltin":true,"views":[{}]},{"id":"workbench.view.extension.dbcodePanelContainer","iconUrl":{"$mid":1,"path":"%%EXTENSION_DATA_PATH%%/dbcode.dbcode-1.30.6-universal/out/resources/logos/icon.svg","scheme":"file"},"name":"DBCode","isBuiltin":false,"views":[{}]},{"id":"refactorPreview","themeIcon":{"id":"refactor-preview-view-icon"},"name":"Refactor
   Preview","isBuiltin":true,"views":[{"when":"refactorPreview.enabled"}]}]'
 workbench.panel.repl.hidden: '[{"id":"workbench.panel.repl.view","isHidden":false}]'
-workbench.panel.size: "397"
+workbench.panel.size: "189"
 workbench.quickInput.viewState: '{"top":0.25,"left":0.5}'
 workbench.scm.views.state.hidden: '[{"id":"workbench.scm.repositories","isHidden":true},{"id":"workbench.scm","isHidden":false},{"id":"workbench.scm.history","isHidden":false}]'
 workbench.sideBar.size: "339"
