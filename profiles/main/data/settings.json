@@ -183,6 +183,14 @@
     "files.insertFinalNewline": true,
     // "editor.smoothScrolling": true,
     // "editor.cursorSmoothCaretAnimation": "on",
+    "syncSettings.resources": [
+        "extensions",
+        "keybindings",
+        "settings",
+        "snippets",
+        "tasks",
+        "uiState"
+    ],
     "syncSettings.crons": {
         "upload": "0 11 * * *",
         "download": "0 18 * * *",
