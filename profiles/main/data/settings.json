@@ -248,5 +248,6 @@
             }
         }
     ],
-    "redhat.telemetry.enabled": true
+    "redhat.telemetry.enabled": true,
+    "terminal.integrated.fontFamily": "Monaco"
 }
