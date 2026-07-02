@@ -1,6 +1,6 @@
 alefragnani.project-manager: '{"project-manager.version":"13.1.1","recent":"[\"xianyu\",\"luban\",\"kit\",\"xxlxj\",\"gateway\",\"tn1gateway\",\"后台客户端\",\"后台服务端\"]","project-manager.whatsNew.shown":"13.1.1","hideGitWelcome":true}'
 dbcode.dbcode: '{"distinctId":"6vHiYHmY--n","library.migrated":true,"termsAgreementDate":"2026-04-29T03:55:49.981Z"}'
-golang.go: '{"go.extensionVersion":"0.40.0","telemetryStartTime":"2026-04-07T07:48:59.975Z","latestGoVersions":{"timestamp":1782786836931,"goVersions":[{"description":"download
+golang.go: '{"go.extensionVersion":"0.40.0","telemetryStartTime":"2026-04-07T07:48:59.975Z","latestGoVersions":{"timestamp":1782958843422,"goVersions":[{"description":"download
   golang.org/dl/go1.26.4","binpath":"golang.org/dl/go1.26.4","label":"Go
   1.26.4","available":false},{"description":"download
   golang.org/dl/go1.25.11","binpath":"golang.org/dl/go1.25.11","label":"Go
@@ -155,7 +155,7 @@ workbench.auxiliaryActivityBar.location: default
 workbench.auxiliaryBar.empty: "true"
 workbench.auxiliaryBar.lastNonMaximizedSize: "300"
 workbench.auxiliaryBar.size: "300"
-workbench.editor.languageDetectionOpenedLanguages.global: '[["dockercompose",true],["shellscript",true],["makefile",true],["log",true],["markdown",true],["jsonc",true],["proto",true],["html",true],["yaml",true],["json",true],["plaintext",true],["go",true]]'
+workbench.editor.languageDetectionOpenedLanguages.global: '[["dockercompose",true],["shellscript",true],["makefile",true],["log",true],["jsonc",true],["html",true],["yaml",true],["json",true],["proto",true],["markdown",true],["plaintext",true],["go",true]]'
 workbench.explorer.views.state.hidden: '[{"id":"outline","isHidden":false},{"id":"timeline","isHidden":false},{"id":"workbench.explorer.openEditorsView","isHidden":true},{"id":"workbench.explorer.emptyView","isHidden":false},{"id":"npm","isHidden":true},{"id":"go.explorer","isHidden":false},{"id":"go.package.outline","isHidden":false},{"id":"svn","isHidden":false},{"id":"dependencies","isHidden":false},{"id":"clangd.typeHierarchyView","isHidden":false},{"id":"clangd.memoryUsage","isHidden":false},{"id":"clangd.ast","isHidden":false},{"id":"javaProjectExplorer","isHidden":false},{"id":"mavenProjects","isHidden":false},{"id":"workbench.explorer.fileView","isHidden":false},{"id":"thunder-client-sidebar","isHidden":false}]'
 workbench.panel.alignment: center
 workbench.panel.lastNonMaximizedHeight: "300"
