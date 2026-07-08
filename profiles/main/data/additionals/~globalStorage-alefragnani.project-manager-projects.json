@@ -126,5 +126,13 @@
 		"tags": [],
 		"enabled": true,
 		"profile": ""
+	},
+	{
+		"name": "daemon",
+		"rootPath": "d:\\data\\a_dev\\daemon",
+		"paths": [],
+		"tags": [],
+		"enabled": true,
+		"profile": ""
 	}
 ]
