@@ -138,25 +138,29 @@ workbench.activity.placeholderViewlets: "[{\"id\":\"workbench.view.explorer\",\
   iconUrl\":{\"$mid\":1,\"path\":\"%%EXTENSION_DATA_PATH%%/dbcode.dbcode-1.30.6\
   -universal/out/resources/logos/icon.svg\",\"scheme\":\"file\"},\"name\":\"DBC\
   ode\",\"isBuiltin\":false,\"views\":[{},{},{},{},{},{},{\"when\":\"dbcode.has\
-  ActiveStreams\"}]},{\"id\":\"workbench.views.service.sidebar.65db9b29-990d-49\
-  d7-9328-d1a0477d087b\",\"iconUrl\":{\"$mid\":1,\"path\":\"%%EXTENSION_DATA_PA\
-  TH%%/alefragnani.project-manager-13.1.1-universal/images/project-manager-side\
-  -bar.svg\",\"scheme\":\"file\"},\"name\":\"项目管理器\",\"isBuiltin\":true,\"views\
-  \":[{}]},{\"id\":\"workbench.views.service.sidebar.6b1d20b9-02fd-4b3a-b4e1-da\
-  e820c0258f\",\"themeIcon\":{\"id\":\"default-view-icon\"},\"name\":\"用户视图容器\",\
-  \"isBuiltin\":true,\"views\":[{\"when\":\"projectManager.canShowTreeViewGit\"\
-  }]},{\"id\":\"workbench.views.service.sidebar.7ecf6b0f-5ef1-4bce-a45b-5e2ef71\
-  3493c\",\"iconUrl\":{\"$mid\":1,\"path\":\"%%EXTENSION_DATA_PATH%%/alefragnan\
-  i.project-manager-13.1.1-universal/images/project-manager-side-bar.svg\",\"sc\
-  heme\":\"file\"},\"name\":\"项目管理器\",\"isBuiltin\":true,\"views\":[{}]}]"
+  ActiveStreams\"}]},{\"id\":\"workbench.view.extension.codexViewContainer\",\"\
+  iconUrl\":{\"$mid\":1,\"path\":\"%%EXTENSION_DATA_PATH%%/openai.chatgpt-26.62\
+  3.141536-win32-x64/resources/blossom-white.svg\",\"scheme\":\"file\"},\"name\
+  \":\"Codex\",\"isBuiltin\":false,\"views\":[{\"when\":\"chatgpt.doesNotSuppor\
+  tSecondarySidebar\"}]},{\"id\":\"workbench.views.service.sidebar.65db9b29-990\
+  d-49d7-9328-d1a0477d087b\",\"iconUrl\":{\"$mid\":1,\"path\":\"%%EXTENSION_DAT\
+  A_PATH%%/alefragnani.project-manager-13.1.1-universal/images/project-manager-\
+  side-bar.svg\",\"scheme\":\"file\"},\"name\":\"项目管理器\",\"isBuiltin\":true,\"v\
+  iews\":[{}]},{\"id\":\"workbench.views.service.sidebar.6b1d20b9-02fd-4b3a-b4e\
+  1-dae820c0258f\",\"themeIcon\":{\"id\":\"default-view-icon\"},\"name\":\"用户视图\
+  容器\",\"isBuiltin\":true,\"views\":[{\"when\":\"projectManager.canShowTreeView\
+  Git\"}]},{\"id\":\"workbench.views.service.sidebar.7ecf6b0f-5ef1-4bce-a45b-5e\
+  2ef713493c\",\"iconUrl\":{\"$mid\":1,\"path\":\"%%EXTENSION_DATA_PATH%%/alefr\
+  agnani.project-manager-13.1.1-universal/images/project-manager-side-bar.svg\",\
+  \"scheme\":\"file\"},\"name\":\"项目管理器\",\"isBuiltin\":true,\"views\":[{}]}]"
 workbench.activityBar.location: default
 workbench.auxiliaryactivity.pinnedViewlets2: '[{"id":"antigravity.agentViewContainerId","pinned":true,"visible":false,"order":0},{"id":"workbench.panel.chat","pinned":true,"visible":false,"order":1}]'
 workbench.auxiliaryactivity.placeholderViewlets: '[{"id":"antigravity.agentViewContainerId","themeIcon":{"id":"robot"},"name":"Agent","isBuiltin":true,"views":[{}]},{"id":"workbench.panel.chat","themeIcon":{"id":"chat-sparkle"},"name":"聊天","isBuiltin":true,"views":[{"when":"false"}]}]'
 workbench.auxiliaryActivityBar.location: default
 workbench.auxiliaryBar.empty: "true"
 workbench.auxiliaryBar.lastNonMaximizedSize: "300"
-workbench.auxiliaryBar.size: "528"
-workbench.editor.languageDetectionOpenedLanguages.global: '[["shellscript",true],["jsonc",true],["html",true],["proto",true],["json",true],["http",true],["makefile",true],["log",true],["yaml",true],["markdown",true],["plaintext",true],["go",true]]'
+workbench.auxiliaryBar.size: "300"
+workbench.editor.languageDetectionOpenedLanguages.global: '[["shellscript",true],["jsonc",true],["html",true],["proto",true],["json",true],["http",true],["makefile",true],["log",true],["yaml",true],["plaintext",true],["markdown",true],["go",true]]'
 workbench.explorer.views.state.hidden: '[{"id":"outline","isHidden":false},{"id":"timeline","isHidden":false},{"id":"workbench.explorer.openEditorsView","isHidden":true},{"id":"workbench.explorer.emptyView","isHidden":false},{"id":"npm","isHidden":true},{"id":"go.explorer","isHidden":false},{"id":"go.package.outline","isHidden":false},{"id":"svn","isHidden":false},{"id":"dependencies","isHidden":false},{"id":"clangd.typeHierarchyView","isHidden":false},{"id":"clangd.memoryUsage","isHidden":false},{"id":"clangd.ast","isHidden":false},{"id":"javaProjectExplorer","isHidden":false},{"id":"mavenProjects","isHidden":false},{"id":"workbench.explorer.fileView","isHidden":false},{"id":"thunder-client-sidebar","isHidden":false}]'
 workbench.panel.alignment: center
 workbench.panel.lastNonMaximizedHeight: "300"
@@ -166,7 +170,7 @@ workbench.panel.output.hidden: '[{"id":"workbench.panel.output","isHidden":false
 workbench.panel.pinnedPanels: '[{"id":"workbench.panel.markers","pinned":true,"visible":false,"order":0},{"id":"workbench.panel.output","pinned":true,"visible":false,"order":1},{"id":"workbench.panel.repl","pinned":true,"visible":false,"order":2},{"id":"terminal","pinned":true,"visible":false,"order":3},{"id":"workbench.panel.testResults","pinned":true,"visible":false,"order":3},{"id":"~remote.forwardedPortsContainer","pinned":true,"visible":false,"order":5},{"id":"workbench.view.extension.dbcodePanelContainer","pinned":true,"visible":false,"order":6},{"id":"refactorPreview","pinned":true,"visible":false}]'
 workbench.panel.placeholderPanels: '[{"id":"workbench.panel.markers","themeIcon":{"id":"markers-view-icon"},"name":"问题","isBuiltin":true,"views":[{}]},{"id":"workbench.panel.output","themeIcon":{"id":"output-view-icon"},"name":"输出","isBuiltin":true,"views":[{}]},{"id":"workbench.panel.repl","themeIcon":{"id":"debug-console-view-icon"},"name":"调试控制台","isBuiltin":true,"views":[{"when":"debuggersAvailable"}]},{"id":"terminal","themeIcon":{"id":"terminal-view-icon"},"name":"终端","isBuiltin":true,"views":[{}]},{"id":"workbench.panel.testResults","themeIcon":{"id":"test-results-icon"},"name":"测试结果","isBuiltin":true,"views":[{"when":"testing.hasAnyResults"}]},{"id":"~remote.forwardedPortsContainer","themeIcon":{"id":"ports-view-icon"},"name":"端口","isBuiltin":true,"views":[{}]},{"id":"workbench.view.extension.dbcodePanelContainer","iconUrl":{"$mid":1,"path":"%%EXTENSION_DATA_PATH%%/dbcode.dbcode-1.30.6-universal/out/resources/logos/icon.svg","scheme":"file"},"name":"DBCode","isBuiltin":false,"views":[{}]},{"id":"refactorPreview","themeIcon":{"id":"refactor-preview-view-icon"},"name":"重构预览","isBuiltin":true,"views":[{"when":"refactorPreview.enabled"}]}]'
 workbench.panel.repl.hidden: '[{"id":"workbench.panel.repl.view","isHidden":false}]'
-workbench.panel.size: "339"
+workbench.panel.size: "264"
 workbench.panel.testResults.state.hidden: '[{"id":"workbench.panel.testResults.view","isHidden":false}]'
 workbench.quickInput.viewState: '{"top":0.25,"left":0.5}'
 workbench.scm.views.state.hidden: '[{"id":"workbench.scm.repositories","isHidden":true},{"id":"workbench.scm","isHidden":false},{"id":"workbench.scm.history","isHidden":false}]'
