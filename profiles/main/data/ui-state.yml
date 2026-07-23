@@ -160,7 +160,7 @@ workbench.auxiliaryActivityBar.location: default
 workbench.auxiliaryBar.empty: "true"
 workbench.auxiliaryBar.lastNonMaximizedSize: "300"
 workbench.auxiliaryBar.size: "494"
-workbench.editor.languageDetectionOpenedLanguages.global: '[["shellscript",true],["yaml",true],["markdown",true],["makefile",true],["typescript",true],["html",true],["vue",true],["json",true],["proto",true],["plaintext",true],["jsonc",true],["go",true]]'
+workbench.editor.languageDetectionOpenedLanguages.global: '[["shellscript",true],["yaml",true],["markdown",true],["typescript",true],["html",true],["vue",true],["proto",true],["jsonc",true],["makefile",true],["json",true],["plaintext",true],["go",true]]'
 workbench.explorer.views.state.hidden: '[{"id":"outline","isHidden":false},{"id":"timeline","isHidden":false},{"id":"workbench.explorer.openEditorsView","isHidden":true},{"id":"workbench.explorer.emptyView","isHidden":false},{"id":"npm","isHidden":true},{"id":"go.explorer","isHidden":false},{"id":"go.package.outline","isHidden":false},{"id":"svn","isHidden":false},{"id":"dependencies","isHidden":false},{"id":"clangd.typeHierarchyView","isHidden":false},{"id":"clangd.memoryUsage","isHidden":false},{"id":"clangd.ast","isHidden":false},{"id":"javaProjectExplorer","isHidden":false},{"id":"mavenProjects","isHidden":false},{"id":"workbench.explorer.fileView","isHidden":false},{"id":"thunder-client-sidebar","isHidden":false}]'
 workbench.panel.alignment: center
 workbench.panel.lastNonMaximizedHeight: "300"
