@@ -15,9 +15,13 @@
         // 设置活动栏（最左侧图标栏）背景色
         "activityBar.background": "#282c34",
         // 如果你想让侧边栏的分隔线也消失，可以加上这一行
-        "sideBar.border": "#282c34"
+        "sideBar.border": "#282c34",
 
         // "editor.background": "#282c34",
+
+        // "list.activeSelectionBackground": "#264f78",
+        "list.inactiveSelectionBackground": "#264f78",
+        "list.hoverBackground": "#264f78",
     },
     // "workbench.activityBar.orientation": "vertical",
     "editor.tokenColorCustomizations": {
