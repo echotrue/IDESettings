@@ -91,7 +91,7 @@
     "todo-tree.tree.expanded": false, // 默认展开树状列表
     // --- 样式自定义 (Highlighting) ---
     "todo-tree.highlights.defaultHighlight": {
-        "type": "tag", // 样式类型：text(仅文字), background(带背景), line(整行)
+        "type": "text", // 样式类型：tag(仅标签),text(仅文字), background(带背景), line(整行)
         "fontWeight": "normal", // 加粗
         "opacity": 0,
         "borderRadius": "2px" // 如果使用背景，增加圆角
