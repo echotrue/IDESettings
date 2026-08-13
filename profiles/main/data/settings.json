@@ -258,5 +258,17 @@
             }
         }
     ],
-    "terminal.integrated.fontFamily": "Monaco"
+    "terminal.integrated.fontFamily": "Monaco",
+    "github.copilot.enable": {
+        "*": false,
+        "plaintext": false,
+        "markdown": false,
+        "scminput": false
+    },
+    "twinny.locale": "zh-CN",
+    "supermaven.enable": {
+        "*": true
+    },
+    "continue.enableNextEdit": false,
+    "continue.enableTabAutocomplete": false
 }
