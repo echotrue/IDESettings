@@ -16,6 +16,7 @@
     "extensions.autoUpdate": "off",
     // "update.showReleaseNotes": false,
     // "window.commandCenter": true,
+    "workbench.experimental.modernUI": false,
     "workbench.colorTheme": "Atom One Dark",
     "workbench.colorCustomizations": {
         // 设置侧边栏背景色
@@ -265,5 +266,6 @@
     },
     "continue.enableNextEdit": false,
     "continue.enableTabAutocomplete": true,
-    "github.copilot.chat.commitMessageGeneration.instructions": []
+    "github.copilot.chat.commitMessageGeneration.instructions": [],
+    "supermaven.allowGitignore": true
 }
