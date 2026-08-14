@@ -259,16 +259,11 @@
         }
     ],
     "terminal.integrated.fontFamily": "Monaco",
-    "github.copilot.enable": {
-        "*": false,
-        "plaintext": false,
-        "markdown": false,
-        "scminput": false
-    },
     "twinny.locale": "zh-CN",
     "supermaven.enable": {
-        "*": true
+        "*": false
     },
     "continue.enableNextEdit": false,
-    "continue.enableTabAutocomplete": false
+    "continue.enableTabAutocomplete": true,
+    "github.copilot.chat.commitMessageGeneration.instructions": []
 }

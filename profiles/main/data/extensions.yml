@@ -1,3 +1,6 @@
+builtin:
+  disabled:
+    - vscode.mermaid-markdown-features
 disabled: []
 enabled:
   - id: akamud.vscode-theme-onedark
@@ -8,8 +11,8 @@ enabled:
     version: 13.1.0
   - id: Anthropic.claude-code
     uuid: 3c13ae49-babe-45fe-8c48-5e45077a62bf
-  - id: Continue.continue
-    uuid: c8d442ab-9ee3-4891-a5b0-994f14f54c94
+  - id: atommaterial.a-file-icon-vscode
+    uuid: 31d413c3-ee2a-4bac-882e-bead93a22a20
   - id: dbcode.dbcode
     uuid: a172cbe5-f099-458f-b024-382d48f54aa0
     version: 1.30.6
