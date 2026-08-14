@@ -262,10 +262,16 @@
     "terminal.integrated.fontFamily": "Monaco",
     "twinny.locale": "zh-CN",
     "supermaven.enable": {
-        "*": false
+        "*": true
     },
     "continue.enableNextEdit": false,
-    "continue.enableTabAutocomplete": true,
+    "continue.enableTabAutocomplete": false,
     "github.copilot.chat.commitMessageGeneration.instructions": [],
-    "supermaven.allowGitignore": true
+    "supermaven.allowGitignore": true,
+    "github.copilot.enable": {
+        "*": false,
+        "plaintext": false,
+        "markdown": false,
+        "scminput": false
+    }
 }
