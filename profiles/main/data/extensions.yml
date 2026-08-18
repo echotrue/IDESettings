@@ -15,6 +15,7 @@ enabled:
     uuid: 31d413c3-ee2a-4bac-882e-bead93a22a20
   - id: Continue.continue
     uuid: c8d442ab-9ee3-4891-a5b0-994f14f54c94
+    version: 2.0.0
   - id: dbcode.dbcode
     uuid: a172cbe5-f099-458f-b024-382d48f54aa0
     version: 1.30.6
@@ -34,6 +35,8 @@ enabled:
   - id: k--kato.intellij-idea-keybindings
     uuid: f30b63fa-e34a-40af-a573-5de5ecfb6c5e
     version: 1.7.6
+  - id: kilocode.kilo-code
+    uuid: 849d53b8-0eb4-4e6b-b73f-870eefcbbf1b
   - id: MS-CEINTL.vscode-language-pack-zh-hans
     uuid: e4ee7751-6514-4731-9cdb-7580ffa9e70b
   - id: ms-python.debugpy

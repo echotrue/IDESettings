@@ -262,7 +262,7 @@
     "terminal.integrated.fontFamily": "Monaco",
     "twinny.locale": "zh-CN",
     "supermaven.enable": {
-        "*": true
+        "*": false
     },
     "continue.enableNextEdit": false,
     "continue.enableTabAutocomplete": false,
@@ -273,5 +273,15 @@
         "plaintext": false,
         "markdown": false,
         "scminput": false
-    }
+    },
+    "terminal.integrated.commandsToSkipShell": [
+        "kilo-code.new.agentManagerOpen",
+        "kilo-code.new.agentManager.showTerminal",
+        "kilo-code.new.agentManager.previousTerminal",
+        "kilo-code.new.agentManager.nextTerminal"
+    ],
+    "kilo-code.new.agentWorkStyle": "human-in-the-loop",
+    "kilo-code.new.autocomplete.provider": "kilo",
+    "kilo-code.new.autocomplete.model": "inception/mercury-edit-2",
+    "kilo-code.new.showTaskTimeline": true
 }
