@@ -262,7 +262,7 @@
     "terminal.integrated.fontFamily": "Monaco",
     "twinny.locale": "zh-CN",
     "supermaven.enable": {
-        "*": false
+        "*": true
     },
     "continue.enableNextEdit": false,
     "continue.enableTabAutocomplete": false,
