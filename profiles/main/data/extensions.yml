@@ -35,8 +35,6 @@ enabled:
   - id: k--kato.intellij-idea-keybindings
     uuid: f30b63fa-e34a-40af-a573-5de5ecfb6c5e
     version: 1.7.6
-  - id: kilocode.kilo-code
-    uuid: 849d53b8-0eb4-4e6b-b73f-870eefcbbf1b
   - id: MS-CEINTL.vscode-language-pack-zh-hans
     uuid: e4ee7751-6514-4731-9cdb-7580ffa9e70b
   - id: ms-python.debugpy
