@@ -4,6 +4,11 @@
     "editor.fontWeight": "300",
     "editor.lineHeight": 20,
     "editor.fontSize": 15,
+    "editor.suggest.matchOnWordStartOnly": true,
+    "editor.suggest.selectionMode": "always",
+    "editor.suggestSelection": "first",
+    "editor.suggest.localityBonus": true,
+
     "extensions.autoCheckUpdates": false,
     "extensions.autoUpdate": false,
     // "update.showReleaseNotes": false,
@@ -76,7 +81,6 @@
     "oneDarkPro.italic": false,
     "editor.minimap.renderCharacters": false,
     "editor.minimap.enabled": false,
-    "workbench.auxiliaryActivityBar.location": "default",
     "workbench.iconTheme": "material-icon-theme",
     "update.mode": "manual",
     // --- Todo Tree 基础设置 ---
@@ -150,9 +154,13 @@
         "ui.diagnostic.staticcheck": true,
         "ui.semanticTokens": true,
         // "staticcheckProvided": true,
+        "ui.completion.usePlaceholders": true,
+        "ui.completion.completionBudget": "100ms",
+
+
         "formatting.gofumpt": true,
         "completeUnimported": true,
-        "usePlaceholders": true,
+
         "analyses": {
             "ST1000": false,
             "ST1003": false,
@@ -255,5 +263,6 @@
         }
     ],
     "redhat.telemetry.enabled": true,
-    "terminal.integrated.fontFamily": "Monaco"
+    "terminal.integrated.fontFamily": "Monaco",
+    "workbench.auxiliaryActivityBar.location": "default"
 }
