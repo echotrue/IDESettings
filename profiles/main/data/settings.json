@@ -1,22 +1,13 @@
 {
-    "workbench.editor.enablePreview": false,
-    "go.toolsManagement.autoUpdate": true,
-    "editor.unicodeHighlight.nonBasicASCII": false,
-    "editor.largeFileOptimizations": false,
-    "workbench.editor.empty.hint": "hidden",
-    // "oneDarkPro.italic": false,
-    "claudeCode.preferredLocation": "panel",
-
     "editor.fontFamily": "Monaco, 'Courier New','JetBrains Mono', 'Fira Code'",
     "editor.fontLigatures": false,
     "editor.fontWeight": "300",
     "editor.lineHeight": 20,
     "editor.fontSize": 15,
     "extensions.autoCheckUpdates": false,
-    "extensions.autoUpdate": "off",
+    "extensions.autoUpdate": false,
     // "update.showReleaseNotes": false,
     // "window.commandCenter": true,
-    "workbench.experimental.modernUI": false,
     "workbench.colorTheme": "Atom One Dark",
     "workbench.colorCustomizations": {
         // 设置侧边栏背景色
@@ -24,7 +15,13 @@
         // 设置活动栏（最左侧图标栏）背景色
         "activityBar.background": "#282c34",
         // 如果你想让侧边栏的分隔线也消失，可以加上这一行
-        "sideBar.border": "#282c34"
+        "sideBar.border": "#282c34",
+
+        // "editor.background": "#282c34",
+
+        // "list.activeSelectionBackground": "#264f78",
+        "list.inactiveSelectionBackground": "#264f78",
+        "list.hoverBackground": "#264f78",
     },
     // "workbench.activityBar.orientation": "vertical",
     "editor.tokenColorCustomizations": {
@@ -77,12 +74,12 @@
     "explorer.confirmDelete": false,
     "http.proxyAuthorization": null,
     "oneDarkPro.italic": false,
-    "editor.minimap.renderCharacters": true,
+    "editor.minimap.renderCharacters": false,
     "editor.minimap.enabled": false,
+    "workbench.auxiliaryActivityBar.location": "default",
     "workbench.iconTheme": "material-icon-theme",
     "update.mode": "manual",
     // --- Todo Tree 基础设置 ---
-    "todo-tree.ripgrep.ripgrep": "C:\\Users\\echof\\AppData\\Local\\Microsoft\\WinGet\\Packages\\BurntSushi.ripgrep.MSVC_Microsoft.Winget.Source_8wekyb3d8bbwe\\ripgrep-15.2.0-x86_64-pc-windows-msvc\\rg.exe",
     "todo-tree.general.tags": [
         "TODO",
         "FIXME",
@@ -131,7 +128,6 @@
         }
     },
     "[go]": {
-        "editor.inlayHints.enabled": "off",
         "editor.insertSpaces": false,
         "editor.formatOnSave": true,
         "editor.codeActionsOnSave": {
@@ -209,7 +205,6 @@
         "download": "0 18 * * *",
         "review": "0 */2 * * *"
     },
-    "github.copilot.nextEditSuggestions.eagerness": "high",
     "dbcode.connections": [
         {
             "connectionId": "chKi4nvNvOooGQVkvXFO-",
@@ -259,29 +254,6 @@
             }
         }
     ],
-    "terminal.integrated.fontFamily": "Monaco",
-    "twinny.locale": "zh-CN",
-    "supermaven.enable": {
-        "*": true
-    },
-    "continue.enableNextEdit": false,
-    "continue.enableTabAutocomplete": false,
-    "github.copilot.chat.commitMessageGeneration.instructions": [],
-    "supermaven.allowGitignore": true,
-    "github.copilot.enable": {
-        "*": false,
-        "plaintext": false,
-        "markdown": false,
-        "scminput": false
-    },
-    "terminal.integrated.commandsToSkipShell": [
-        "kilo-code.new.agentManagerOpen",
-        "kilo-code.new.agentManager.showTerminal",
-        "kilo-code.new.agentManager.previousTerminal",
-        "kilo-code.new.agentManager.nextTerminal"
-    ],
-    "kilo-code.new.agentWorkStyle": "human-in-the-loop",
-    "kilo-code.new.autocomplete.provider": "kilo",
-    "kilo-code.new.autocomplete.model": "inception/mercury-edit-2",
-    "kilo-code.new.showTaskTimeline": true
+    "redhat.telemetry.enabled": true,
+    "terminal.integrated.fontFamily": "Monaco"
 }
