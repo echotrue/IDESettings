@@ -42,9 +42,6 @@ enabled:
   - id: ms-vscode.makefile-tools
     uuid: e09cf600-90a1-414e-92a0-031f1a5391c6
     version: 0.12.17
-  - id: openai.chatgpt
-    uuid: 90b52117-6fd1-4f1c-9e14-256bd6e21d79
-    version: 26.623.141536
   - id: pbkit.vscode-pbkit
     uuid: 75287367-3d0c-4015-9cf1-d5ddbb76ef0f
     version: 0.0.5
