@@ -263,7 +263,7 @@
     "twinny.locale": "zh-CN",
     "supermaven.enable": {
         "*": false,
-        "go": false
+        "go": true
     },
     "continue.enableNextEdit": false,
     "continue.enableTabAutocomplete": false,
@@ -285,5 +285,6 @@
     "kilo-code.new.autocomplete.provider": "kilo",
     "kilo-code.new.autocomplete.model": "inception/mercury-edit-2",
     "kilo-code.new.showTaskTimeline": true,
-    "python.autoComplete.extraPaths": []
+    "python.autoComplete.extraPaths": [],
+    "CodeGPT.apiKey": "OpenAI"
 }
