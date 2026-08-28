@@ -169,7 +169,9 @@
     "go.inlayHints.compositeLiteralFields": true,
     "gopls": {
         "ui.diagnostic.staticcheck": true,
+        "ui.diagnostic.analysisProgressReporting": false,
         "ui.semanticTokens": true,
+
         // "staticcheckProvided": true,
         // "ui.completion.usePlaceholders": true,
         // "ui.completion.completionBudget": "100ms",
