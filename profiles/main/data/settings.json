@@ -186,7 +186,7 @@
             // "ST1023": false, // 禁用冗余类型声明检查
             "unusedparams": true,
             "shadow": true,
-            "packagecomment": false
+            "packagecomment": false,
         },
         "directoryFilters": [
             "-node_modules",
