@@ -134,13 +134,5 @@
 		"tags": [],
 		"enabled": true,
 		"profile": ""
-	},
-	{
-		"name": "combat",
-		"rootPath": "d:\\data\\a_dev\\xianyu\\combat",
-		"paths": [],
-		"tags": [],
-		"enabled": true,
-		"profile": ""
 	}
 ]
