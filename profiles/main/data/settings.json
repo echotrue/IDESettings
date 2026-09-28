@@ -282,7 +282,11 @@
     "python.autoComplete.extraPaths": [],
     "CodeGPT.apiKey": "OpenAI",
     "github.copilot.enable": {
+        "*": false,
+        "plaintext": false,
+        "markdown": false,
+        "scminput": false,
         "http": true,
-        "go": true
+        "go": false
     }
 }
