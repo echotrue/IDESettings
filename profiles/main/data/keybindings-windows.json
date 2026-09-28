@@ -1,5 +1,14 @@
-// Place your key bindings in this file to override the defaults
 [
+    {
+        "key": "ctrl+p",
+        "command": "-editor.action.triggerParameterHints",
+        "when": "editorHasSignatureHelpProvider && editorTextFocus"
+    },
+    {
+        "key": "ctrl+alt+p",
+        "command": "-editor.action.codeAction",
+        "when": "editorTextFocus"
+    },
     {
         "key": "ctrl+i",
         "command": "composerMode.agent"
