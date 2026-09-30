@@ -287,6 +287,7 @@
         "markdown": false,
         "scminput": false,
         "http": true,
-        "go": false
-    }
+        "go": true
+    },
+    "github.copilot.nextEditSuggestions.enabled": true
 }
