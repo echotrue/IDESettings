@@ -3,7 +3,7 @@ Alibaba-Cloud.tongyi-lingma: '{"globalstate-default-selected-chat-mode":"chat","
 Anthropic.claude-code: '{"settingsMigrated20251024":true,"lastClaudeLocationMigrated":true,"experimentGates":{"tengu_vscode_review_upsell":false,"tengu_cobalt_harbor_notice":true,"tengu_vscode_onboarding":false,"tengu_quiet_fern":true,"tengu_vscode_cc_auth":true,"tengu_slate_ribbon":true,"tengu_brick_follow":false,"tengu_vellum_siding":false,"tengu_loggia_carousel":true,"tengu_loggia_carousel_config":true,"fable5_launch_show":false,"startup_announcement":false,"tengu_auto_mode_state":"enabled"},"permissionModeCleared20260804":true}'
 atommaterial.a-file-icon-vscode: '{"a-file-icon-vscode.version":"2.0.1"}'
 dbcode.dbcode: '{"distinctId":"fS4EE1z7U8g","library.migrated":true,"termsAgreementDate":"2026-09-10T14:03:46.459Z"}'
-golang.go: '{"go.extensionVersion":"0.40.0","telemetryStartTime":"2026-04-07T07:48:59.975Z","latestGoVersions":{"timestamp":1791771237416,"goVersions":[{"description":"download
+golang.go: '{"go.extensionVersion":"0.40.0","telemetryStartTime":"2026-04-07T07:48:59.975Z","latestGoVersions":{"timestamp":1791858495424,"goVersions":[{"description":"download
   golang.org/dl/go1.27.2","binpath":"golang.org/dl/go1.27.2","label":"Go
   1.27.2","available":false},{"description":"download
   golang.org/dl/go1.26.9","binpath":"golang.org/dl/go1.26.9","label":"Go
@@ -196,7 +196,7 @@ workbench.auxiliarybar.placeholderPanels: '[{"id":"workbench.panel.chat","themeI
 workbench.auxiliaryBar.size: "576"
 workbench.chat.hideMovedChatWelcomeView: "true"
 workbench.chat.hideWelcomeView: "true"
-workbench.editor.languageDetectionOpenedLanguages.global: '[["json",true],["yaml",true],["jsonc",true],["javascript",true],["bat",true],["python",true],["proto",true],["markdown",true],["dockercompose",true],["plaintext",true],["http",true],["go",true]]'
+workbench.editor.languageDetectionOpenedLanguages.global: '[["jsonc",true],["bat",true],["python",true],["proto",true],["markdown",true],["dockercompose",true],["http",true],["javascript",true],["vue",true],["json",true],["go",true],["plaintext",true]]'
 workbench.explorer.views.state.hidden: '[{"id":"outline","isHidden":false},{"id":"timeline","isHidden":false},{"id":"workbench.explorer.openEditorsView","isHidden":true},{"id":"workbench.explorer.emptyView","isHidden":false},{"id":"npm","isHidden":true},{"id":"go.explorer","isHidden":false},{"id":"go.package.outline","isHidden":false},{"id":"svn","isHidden":false},{"id":"dependencies","isHidden":false},{"id":"clangd.typeHierarchyView","isHidden":false},{"id":"clangd.memoryUsage","isHidden":false},{"id":"clangd.ast","isHidden":false},{"id":"javaProjectExplorer","isHidden":false},{"id":"mavenProjects","isHidden":false},{"id":"workbench.explorer.fileView","isHidden":false},{"id":"thunder-client-sidebar","isHidden":false},{"id":"kilo-code.SidebarProvider","isHidden":false},{"id":"continue.continueGUIView","isHidden":false},{"id":"codegpt-sidebar","isHidden":false},{"id":"chatgpt.sidebarSecondaryView","isHidden":false},{"id":"codeium.chatPanelView","isHidden":false},{"id":"antigravity.panel","isHidden":false},{"id":"supermaven-view","isHidden":false}]'
 workbench.newDefaultThemeNotification: "true"
 workbench.panel.alignment: center
