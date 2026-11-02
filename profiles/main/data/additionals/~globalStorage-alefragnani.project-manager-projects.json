@@ -142,5 +142,13 @@
 		"tags": [],
 		"enabled": true,
 		"profile": ""
+	},
+	{
+		"name": "anytls-go",
+		"rootPath": "d:\\data\\github\\anytls-go",
+		"paths": [],
+		"tags": [],
+		"enabled": true,
+		"profile": ""
 	}
 ]
