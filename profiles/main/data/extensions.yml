@@ -11,6 +11,7 @@ enabled:
     version: 13.1.0
   - id: Alibaba-Cloud.tongyi-lingma
     uuid: b90347d7-e182-4b37-8314-4cde59e48d27
+    version: 2.6.10
   - id: Anthropic.claude-code
     uuid: 3c13ae49-babe-45fe-8c48-5e45077a62bf
   - id: atommaterial.a-file-icon-vscode
