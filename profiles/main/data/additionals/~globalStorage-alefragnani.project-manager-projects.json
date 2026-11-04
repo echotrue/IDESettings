@@ -150,5 +150,13 @@
 		"tags": [],
 		"enabled": true,
 		"profile": ""
+	},
+	{
+		"name": "HugoBlog",
+		"rootPath": "d:\\data\\HugoBlog",
+		"paths": [],
+		"tags": [],
+		"enabled": true,
+		"profile": ""
 	}
 ]
