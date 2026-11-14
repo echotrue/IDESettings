@@ -158,5 +158,21 @@
 		"tags": [],
 		"enabled": true,
 		"profile": ""
+	},
+	{
+		"name": "后台服务端(hsy)",
+		"rootPath": "d:\\data\\a_pro_hsy\\gm\\backend",
+		"paths": [],
+		"tags": [],
+		"enabled": true,
+		"profile": ""
+	},
+	{
+		"name": "后台客户端(hsy)",
+		"rootPath": "d:\\data\\a_pro_hsy\\gm\\frontend",
+		"paths": [],
+		"tags": [],
+		"enabled": true,
+		"profile": ""
 	}
 ]
