@@ -174,5 +174,13 @@
 		"tags": [],
 		"enabled": true,
 		"profile": ""
+	},
+	{
+		"name": "新后台(hsy)",
+		"rootPath": "d:\\data\\a_pro_hsy\\gm_armor",
+		"paths": [],
+		"tags": [],
+		"enabled": true,
+		"profile": ""
 	}
 ]
